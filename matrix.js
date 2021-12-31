@@ -71,9 +71,9 @@ let ch = window.innerHeight;
 canvas.width = cw;
 canvas.height = ch;
 
-let maxCharCount = 1000;
+let maxCharCount = 100;
 let fallingCharArr = [];
-let fontSize = 15;
+let fontSize = 10;
 let maxColumns = cw / fontSize;
 let frames = 0;
 
